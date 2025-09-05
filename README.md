@@ -20,8 +20,7 @@ This repository is designed to help developers, students, and job seekers quickl
 🚀 How to Use
 
 Clone the repo:
-git clone https://github.com/your-username/html-interview-questions.git
-
+git clone https://github.com/Rahul70079/HTML-INTERVIEW-QUESTION-SHEET
 Open questions.md or index.html in your browser/editor.
 
 Revise before interviews and practice coding examples.

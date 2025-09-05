@@ -1,0 +1,86 @@
+Basic HTML Interview Questions
+1. What is HTML?
+👉 HTML (HyperText Markup Language) is the standard language used to structure web pages and display content in a browser.
+
+
+2. What are HTML tags?
+👉 Tags are keywords enclosed in angle brackets (< >) used to define elements in HTML.
+Example: <p>Hello</p>
+
+
+3. What is the difference between inline, block, and inline-block elements?
+👉Block: Takes full width (e.g., <div>, <p>, <h1>).
+Inline: Takes only required width (e.g., <span>, <a>).
+Inline-block: Behaves like inline but allows setting width/height.
+
+
+4. What is the difference between <div> and <span>?
+👉<div>: Block-level container, used for grouping large sections.
+<span>: Inline container, used for styling a small part of text.
+
+
+5. What is the difference between HTML and HTML5?
+👉HTML5 introduces new semantic elements (<header>, <footer>, <article>, <section>).
+Native support for audio (<audio>) and video (<video>).
+Local storage & session storage.
+Canvas & SVG for graphics.
+
+
+🔹 Intermediate HTML Interview Questions
+
+6. What is semantic HTML? Why is it important?
+👉 Semantic HTML means using tags with meaningful names (like <header>, <footer>, <article>, <nav>).
+✔ Helps with SEO, accessibility, and better code readability.
+
+
+7. What is the difference between id and class attributes?
+👉id: Unique identifier for a single element (used once per page).
+class: Can be used for multiple elements for styling or JS.
+
+
+8. What is the difference between <link> and <a>?
+👉<link>: Used to link external resources like CSS.
+<a>: Used to create hyperlinks.
+
+
+9. What is the difference between relative, absolute, and fixed URLs?
+👉Relative: Path relative to current location (images/pic.jpg).
+Absolute: Full path with domain (https://example.com/pic.jpg).
+Fixed (root-relative): Starts from the root directory (/images/pic.jpg).
+
+
+10. Difference between <em> and <i> tag?
+👉<em>: Emphasizes text with semantic meaning (important for screen readers).
+<i>: Italicizes text, only visual styling.
+
+🔹 Advanced HTML Interview Questions
+
+11. What is the difference between localStorage, sessionStorage, and cookies?
+👉localStorage: Stores data permanently (until manually cleared).
+sessionStorage: Stores data per session (cleared when tab closes).
+cookies: Small data stored on client + sent with requests (used for authentication).
+
+12. What is the difference between defer and async in <script>?
+
+👉async: Script loads asynchronously and executes immediately (may interrupt HTML parsing).
+defer: Script loads asynchronously but executes only after HTML parsing is done.
+
+
+13. What is the difference between inline CSS, internal CSS, and external CSS?
+👉Inline: Style applied directly inside element (<p style="color:red">).
+Internal: Inside <style> tag in HTML file.
+External: In separate .css file linked with <link>.
+
+14. What are meta tags in HTML?
+👉 Meta tags provide metadata about the page (not displayed). Example:
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="description" content="HTML interview prep">
+
+
+15. Difference between <canvas> and <svg>?
+👉<canvas>: Pixel-based, good for dynamic graphics (like games).
+
+
+What are meta tags?
+👉Metadata (not visible). Example: viewport, charset, description.

@@ -29,7 +29,7 @@ Revise before interviews and practice coding examples.
 
 Q: What is semantic HTML? Why is it important?
 👉 Semantic HTML means using elements that carry meaning (<header>, <footer>, <article>).
-✔ Improves SEO, accessibility, and code readability.
+Improves SEO, accessibility, and code readability.
 
 🤝 Contribution
 
